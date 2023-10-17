@@ -1,0 +1,14 @@
+cat-detect-voice-assistant
+frontend/object-monitor
+__pycache__/
+.DS_Store
+
+README.dataset.txt
+README.roboflow.txt
+
+mlstff/
+
+.vscode/
+venv
+yolov5
+runs
